@@ -1,4 +1,4 @@
-# Test-Driven Development
+np# Test-Driven Development
 
 Erstelle zuerst einen Fork von diesem Repository und klone diesen. Führe den Befehl `npm install` im geklonten Verzeichnis aus.
 
@@ -36,7 +36,7 @@ In dieser Aufgabe soll die Funktion `formatDuration` in `src/duration.ts` implem
 - `123` wird zu `2m3s`.
 - `500` wird zu `8m20s`.
 - `3600` wird zu `1h`.
-- `3999` wird zu `1h6m30s`.
+- `3999` wird zu `1h6m39s`.
 
 Schreibe Tests und Produktivcode gemäss TDD-Vorgehen, indem du die obigen Fälle und folgende Spezialfälle testest und implementierst:
 
